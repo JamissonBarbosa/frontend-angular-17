@@ -5,5 +5,11 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "courses": [
+    { "id": "1", "name": "Introduction to Angular", "category": "Frontend" },
+    { "id": "2", "name": "Advanced Angular", "category": "Frontend" },
+    { "id": "3", "name": "Spring Boot Basics", "category": "Backend" },
+    { "id": "4", "name": "RESTful APIs with Spring", "category": "Backend" }
+  ]
 }
