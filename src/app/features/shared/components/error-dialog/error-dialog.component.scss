@@ -1,0 +1,24 @@
+.dialog-error{
+  padding: 0 1rem;
+
+  h2 {
+    color: #f44336;
+  }
+
+  mat-dialog-content {
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+
+  mat-dialog-actions {
+    margin-top: 1.5rem;
+
+    button {
+      font-weight: 600;
+    }
+
+    button:hover {
+      background-color: #201f1f33;
+    }
+  }
+}

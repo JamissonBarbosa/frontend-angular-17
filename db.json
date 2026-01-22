@@ -1,15 +1,56 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
   ],
-  "profile": { "name": "typicode" },
+  "profile": {
+    "name": "typicode"
+  },
   "courses": [
-    { "id": "1", "name": "Introduction to Angular", "category": "Frontend" },
-    { "id": "2", "name": "Advanced Angular", "category": "Frontend" },
-    { "id": "3", "name": "Spring Boot Basics", "category": "Backend" },
-    { "id": "4", "name": "RESTful APIs with Spring", "category": "Backend" }
+    {
+      "id": "1",
+      "name": "Introduction to Angular",
+      "category": "front-end"
+    },
+    {
+      "id": "2",
+      "name": "Advanced Angular",
+      "category": "front-end"
+    },
+    {
+      "id": "3",
+      "name": "Spring Boot Basics",
+      "category": "back-end"
+    },
+    {
+      "id": "4",
+      "name": "RESTful APIs with Spring",
+      "category": "back-end"
+    },
+    {
+      "id": "c56d",
+      "name": "Angular expert",
+      "category": "front-end"
+    },
+    {
+      "id": "8f15",
+      "name": "Java Hero",
+      "category": "back-end"
+    },
+    {
+      "id": "59e0",
+      "name": "Springboot",
+      "category": "back-end"
+    }
   ]
 }

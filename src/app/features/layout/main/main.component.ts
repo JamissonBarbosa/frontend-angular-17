@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { MatDividerModule } from '@angular/material/divider';
-import { CoursesComponent } from "../../courses/view/courses.component";
+import { CoursesComponent } from "../../courses/view/courses/courses.component";
 
 const COMPONENTS = [CoursesComponent];
 
